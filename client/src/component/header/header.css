@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.brand_logo{
+    height: 200px;
+    width: 200px;
+}
